@@ -1,0 +1,26 @@
+
+#menu ul
+{
+list-style-type:none;
+margin-top:5px;
+padding-top:15px;
+padding-left:30px;
+}
+#menu ul li
+{
+display:inline;
+color:black;
+padding-left:15px;
+padding-right:10px;
+padding-top:7px;
+padding-bottom:5px;
+border-right:2px solid;
+border-right-color:black;
+}
+a{
+    text-decoration: none;
+}
+#menu li:hover
+{
+    background-color: #ff4e25;
+}
